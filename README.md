@@ -31,8 +31,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: https://github.com/ZounMedia/qr-code-comonent
-- Live Site URL: https://github.com/ZounMedia/qr-code-comonent
+- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-tCBANXdD4V
+- Live Site URL: https://qr-code-component-mu-taupe.vercel.app/
 
 ## My process
 
@@ -58,5 +58,4 @@ I would like to focus on my project setup for future projects. Regular css is ok
 
 ## Author
 
-- Website - https://www.your-site.com
 - Frontend Mentor - https://www.frontendmentor.io/profile/@rzounlom
