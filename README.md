@@ -25,6 +25,7 @@ A QR Code component built with HTML and CSS.
 
 - Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-tCBANXdD4V
 - Live Site URL: https://qr-code-component-mu-taupe.vercel.app/
+- GitHub Repo: https://github.com/ZounMedia/qr-code-component
 
 ## My process
 
